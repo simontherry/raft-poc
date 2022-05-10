@@ -1,0 +1,10 @@
+cd RaftPoc\RaftPoc.TestUtil\bin\Debug\net6.0
+
+# create cluster
+RaftPoc.TestUtil.exe --createCluster true
+
+# configure the ID
+RaftPoc.TestUtil.exe --configureId 6789
+
+# get ID
+RaftPoc.TestUtil.exe --getId true
