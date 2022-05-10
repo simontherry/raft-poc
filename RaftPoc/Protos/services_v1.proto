@@ -1,0 +1,50 @@
+syntax = "proto3";
+
+package raft.poc.v1;
+
+message Node {
+    string hostname = 1;
+    int32 port = 2;
+    bool use_ssl = 3;
+}
+
+message AddNodeRequest {
+    Node node = 1;
+}
+
+message AddNodeReply {
+    bool success = 1;
+}
+
+message RemoveNodeRequest {
+    Node node = 1;
+}
+
+message RemoveNodeReply {
+    bool success = 1;
+}
+
+message GetIdRequest {
+}
+
+message GetIdReply {
+    int64 id = 1;
+}
+
+message ConfigureIdRequest {
+    int64 id = 1;
+}
+
+message ConfigureIdReply {
+    bool success = 1;
+}
+
+service IdService {
+    rpc GetId (GetIdRequest) returns (GetIdReply);
+    rpc ConfigureId (ConfigureIdRequest) returns (ConfigureIdReply);
+}
+
+service ConfigurationService {
+    rpc AddNode (AddNodeRequest) returns (AddNodeReply);
+    rpc RemoveNode (RemoveNodeRequest) returns (RemoveNodeReply);
+}

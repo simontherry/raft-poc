@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "reZy6TfvlupegiWWooH8gui4MCwObyoNuX3fed0kv43wm3b2rwQCxEPJC1ZnoM0bE07oq04gqDruk4mbS9/G+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SimonTH\\Documents\\GitHub\\raft-poc\\RaftPoc\\RaftPoc.TestUtil\\RaftPoc.TestUtil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SimonTH\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\grpc.core.api\\2.40.0\\grpc.core.api.2.40.0.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\grpc.net.client\\2.40.0\\grpc.net.client.2.40.0.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\grpc.net.clientfactory\\2.40.0\\grpc.net.clientfactory.2.40.0.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\grpc.net.common\\2.40.0\\grpc.net.common.2.40.0.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\grpc.tools\\2.40.0\\grpc.tools.2.40.0.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.3\\microsoft.extensions.configuration.binder.3.0.3.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\6.0.0\\microsoft.extensions.configuration.commandline.6.0.0.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.3\\microsoft.extensions.dependencyinjection.3.0.3.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.3\\microsoft.extensions.dependencyinjection.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\microsoft.extensions.http\\3.0.3\\microsoft.extensions.http.3.0.3.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\microsoft.extensions.logging\\3.0.3\\microsoft.extensions.logging.3.0.3.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\microsoft.extensions.options\\3.0.3\\microsoft.extensions.options.3.0.3.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\SimonTH\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
